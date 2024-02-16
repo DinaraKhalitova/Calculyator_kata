@@ -1,0 +1,23 @@
+
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(®„Æ¹üÿÿÿÿ8¿Ù§ëÚ1
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(‚¦Òêşÿÿÿÿ8ÁÙ§ëÚ1
+b	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(³™ï…8ÁÙ§ëÚ1
+g	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(âİâÿÿÿÿÿ8ÂÙ§ëÚ1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(â­Àøÿÿÿÿ8ÂÙ§ëÚ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒœÓ®8ÌÙ§ëÚ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô°’ùÿÿÿÿ8ÌÙ§ëÚ1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÆİ8ÌÙ§ëÚ1
+
+java:S1488i"bImmediately return this expression instead of assigning it to the temporary variable "arabNumber".(ÃäÙ8ÏÙ§ëÚ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«÷§üÿÿÿÿ8ÛÙ§ëÚ1
+L	java:S106	"+Replace this use of System.out by a logger.(“¼•âıÿÿÿÿ8ÉÜ§ëÚ1
+L	java:S106"+Replace this use of System.out by a logger.(©ùßØÿÿÿÿÿ8ÌÜ§ëÚ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(â­Àøÿÿÿÿ8ÑÜ§ëÚ1
+F
+java:S1197"*Move the array designators [] to the type.(şÆİ8ØÜ§ëÚ1
+E	java:S108,")Either remove or fill this block of code.(“¤ĞŠ8äÜ§ëÚ1
+J	java:S108-")Either remove or fill this block of code.(òş‹ïşÿÿÿÿ8äÜ§ëÚ1
+L	java:S106D"+Replace this use of System.out by a logger.(‹¹ıÖüÿÿÿÿ8æÜ§ëÚ1
+\
+java:S1118M":Add a private constructor to hide the implicit public one.(ø²¤îûÿÿÿÿ8èÜ§ëÚ1

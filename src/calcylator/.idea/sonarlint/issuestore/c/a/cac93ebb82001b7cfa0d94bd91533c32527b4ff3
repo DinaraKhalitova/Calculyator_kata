@@ -1,0 +1,18 @@
+
+„
+java:S1488n"bImmediately return this expression instead of assigning it to the temporary variable "arabNumber".(ùø§…ÿÿÿÿÿ8§ïƒ›Ú1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øø¹Ë
+L	java:S106"+Replace this use of System.out by a logger.( Žøúüÿÿÿÿ8Âˆ„›Ú1
+L	java:S106
+"+Replace this use of System.out by a logger.(©ùßØÿÿÿÿÿ8éˆ„›Ú1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(è‹ñ€ûÿÿÿÿ8£‰„›Ú1
+?
+java:S1659""Declare "num2" on a separate line.(à÷Áµ8Æ‰„›Ú1
+X	java:S125"<This block of commented-out lines of code should be removed.(˜‡³Ö8‹Š„›Ú1
+X	java:S125"<This block of commented-out lines of code should be removed.(˜‡³Ö8Š„›Ú1
+W	java:S125"<This block of commented-out lines of code should be removed.(ûàö8ðúÊ³Ú1
+E	java:S108)")Either remove or fill this block of code.(†Íï°8 Š„›Ú1
+J	java:S108+")Either remove or fill this block of code.(µÆÓ‹ÿÿÿÿÿ8 Š„›Ú1
+\
+java:S1118T":Add a private constructor to hide the implicit public one.(Î–ôßüÿÿÿÿ8ßŠ„›Ú1
